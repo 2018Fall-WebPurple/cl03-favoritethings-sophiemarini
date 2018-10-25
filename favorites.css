@@ -1,0 +1,22 @@
+/*
+*Sophie Marini
+*Due Date
+*MyFavoriteThings
+*/
+
+/*The universal selector*/
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {} 
+    
+    img{width: 200px; height: 350px;}
+background-color:pink
+
+#me {width 200px; height: 350px;}
+#siblings {width 400px; height: 200px;}
+#firefly {width 500px; height: 200px;}
